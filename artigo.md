@@ -60,6 +60,8 @@ Conceitos:
     - como?
     - por quê?
 
+- Não dá para rotacionar hiometria, e agora?
+
 ### Deep Fake
 - Definição
     - o que?
