@@ -30,6 +30,12 @@ Conceitos:
     - como?
     - por quê?
 
+#### Mineração de Dados
+- Web Crawlers
+- Web Scraping
+- Automação de coleta de dados expostos na web
+- Privacidade
+
 - Uso da IA no dia-a-dia antes do hype
 - Times de IA:
     - Cientista de Dados
@@ -60,7 +66,7 @@ Conceitos:
     - como?
     - por quê?
 
-- Não dá para rotacionar hiometria, e agora?
+- Não dá para rotacionar biometria, e agora?
 
 ### Deep Fake
 - Definição
