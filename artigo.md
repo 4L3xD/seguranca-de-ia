@@ -1,3 +1,5 @@
+# Introdução
+
 ## Segurança da Informação
 - Definição:
     - o que?
@@ -40,6 +42,8 @@ Conceitos:
     - como?
     - por quê?
 
+# Desenvolvimento
+
 ## Segurança de IA
 - Definição
     - o que?
@@ -73,4 +77,8 @@ Conceitos:
 - Interface Cérebro-Computador e a segurança dos nossos corpos;
     - vulnerabilidades
 
+# Conclusão
 
+## Village AI
+- Quem somos!
+- Onde aprender mais: https://village-ai-br.notion.site/1327781a862180deb4fcc8b97528c5a6?v=e817e3488397485d9aecc10d95700ad4
